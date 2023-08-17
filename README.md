@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cwo2k2
-- 👀 I’m interested in SQL, R, and Python
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in HTML, CSS, and responsive email design
+- 🌱 I’m currently looking for an email developer postion.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
